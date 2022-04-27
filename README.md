@@ -2,7 +2,9 @@
 The Directory for this respoitory is:
 [Summary](https://github.com/mimisull/Challenge-5/blob/main/README.md)
 [Code](https://github.com/mimisull/Challenge-5/blob/main/financial_planning_tools.ipynb)
+
 **FinTech Consulting for Credit Union**
+
 Specifically, I am building a tool to help credit union members evaluate their financial health. They can assess their monthly budgets as well as forecast their retirement plan based on current holdings of cypto, stock, and bonds with this tool.
 
 *User Story*:
